@@ -16,7 +16,7 @@ public class BrowserWindows extends Hooks {
 
         @Test
         public void metodaTest() {
-
+//
             homePage = new HomePage(getDriver());
             commonPage = new CommonPage(getDriver());
             browserWindowsPage = new BrowserWindowsPage(getDriver());

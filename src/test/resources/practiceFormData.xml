@@ -1,0 +1,15 @@
+<dataSets>
+    <dataSet_1>
+        <firstName>Popescu</firstName>
+        <lastName>Maria</lastName>
+        <email>testEmail@test.com</email>
+        <currentAddress>currentAddress 1</currentAddress>
+        <mobile>1234567890</mobile>
+        <gender>Female</gender>
+        <subject>e</subject>
+        <state>NCR</state>
+        <city>Delhi</city>
+        <imagePath>src/test/resources/zapada.jpg</imagePath>
+        <hobby>Sports,Music</hobby>
+    </dataSet_1>
+</dataSets>

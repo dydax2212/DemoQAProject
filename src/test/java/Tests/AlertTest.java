@@ -17,6 +17,8 @@ public class AlertTest extends Hooks {
     @Test
     public void metodaTest() {
 
+        //alertstest
+
         homePage = new HomePage(getDriver());
         commonPage = new CommonPage(getDriver());
         alertsPage = new AlertsPage(getDriver());
